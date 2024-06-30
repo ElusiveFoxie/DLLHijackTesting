@@ -1,0 +1,6 @@
+﻿  library-loader.cpp
+  Generating code
+  Finished generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 224 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  library-loader.vcxproj -> C:\Users\commando\source\repos\library-loader\x64\Release\library-loader.exe
