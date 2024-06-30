@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Generating code
+  Finished generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  SimpleDll.vcxproj -> C:\Users\commando\source\repos\SimpleDll\x64\Release\SimpleDll.dll
